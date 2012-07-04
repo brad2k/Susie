@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /archive
+SITEMAP: http://www.susieskincare.com/sitemap.xml
