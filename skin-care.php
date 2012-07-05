@@ -1,4 +1,4 @@
-<?
+<?php
 $page_type = "product";
 $page_sub_type = "skin-care";
 $page_title = "Specialized Skin Care by Susie Byleckie";
@@ -90,4 +90,4 @@ include("header.php");
 	<dt>Price:</dt>
 	<dd class="last">$35</dd>
 </dl>
-<? include("footer.php"); ?>
+<?php include("footer.php"); ?>

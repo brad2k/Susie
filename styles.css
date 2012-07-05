@@ -67,8 +67,9 @@ div.clear{clear:both;font-size:1px;line-height:1px;height:0px;visibility:hidden;
 #main dd {margin-bottom:5px;}
 #main dd a {font-weight:normal;}
 /* home */
-.home #main {background:#8E9196 url(images/bg_home.jpg) center;padding:0;height:341px;}
-.home #main .portrait {display:block;margin:39px auto 0;border:1px solid #DDD;}
+.home #main {background:#8E9196 url(images/bg_home.jpg) center no-repeat;padding:0;height:341px;text-align: center;}
+.home #main div {display:inline;}
+.home #main .portrait {display:block;margin:14px auto 10px;border:1px solid #DDD;}
 /* product */
 .product #main dt {margin:0 5px 0 0;}
 .product #main dd {float:left;padding-right:5px;border-right:1px solid #999;margin:0 5px 0 0;}

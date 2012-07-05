@@ -1,4 +1,4 @@
-<?
+<?php
 $page_type = "product";
 $page_sub_type = "facials";
 $page_title = "Facials by Susie Byleckie";
@@ -63,4 +63,4 @@ include("header.php");
 	<dd class="last">$88</dd>
 </dl>
 
-<? include("footer.php"); ?>
+<?php include("footer.php"); ?>
