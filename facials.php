@@ -2,12 +2,13 @@
 $page_type = "product";
 $page_sub_type = "facials";
 $page_title = "Facials by Susie Byleckie";
-$meta_description = "Desc";
-$meta_keywords = "Keywords";
+$meta_description = "";
 include("header.php");
 ?>
 
-<h2>Facials by Susie</h2>
+<h2>Facials</h2>
+
+<p>All facials are custom designed for your individual needs. Special pricing for additional treatments when scheduled with your cleaning facial.</p>
 
 <h3>Cleansing Facial</h3>
 
@@ -18,49 +19,69 @@ include("header.php");
 	<dd>75 minutes</dd>
 
 	<dt>Price:</dt>
-	<dd class="last">$75</dd>
+	<dd class="last">From $75</dd>
 </dl>
 
 <hr />
 
-<h3>Revitalizing Mask</h3>
+<h3>Teen Facial</h3>
 
-<p>This relaxing, deeply hydrating mask is wonderful for the client who has had exposure to the sun or who enjoys a special treatment before a special occasion or makeup application.  This treatment will provide you with supple and radiant skin.</p>
+<p>This facial is specially designed for teenagers and the skin problems common to teens.  The facial will gently cleanse skin, exfoliate and moisturize while addressing basic acne concerns. The teen facial is a great way to introduce young people to skin care.</p>
 
 <dl>
 	<dt>Duration:</dt>
-	<dd>75 minutes</dd>
+	<dd>45 minutes</dd>
 
 	<dt>Price:</dt>
-	<dd class="last">$80</dd>
+	<dd class="last">From $60</dd>
 </dl>
 
 <hr />
 
-<h3>High Performance Repair</h3>
+<h2>Peels</h2>
 
-<p>Our deepest treatment for the repair of neglected, sun-damaged, sagging, or rough skin.  Clients call this treatment, with the finest serums and skin care products from Switzerland, the next best thing to a miracle.</p>
+<p>To generate new cell growth to improve your skin's elasticity, luminosity, and well being.</p>
 
-<dl>
-	<dt>Duration:</dt>
-	<dd>75 minutes</dd>
+<dl class="blockList">
+	<dt>Lactic peel:</dt>
+	<dd>From $95</dd>
 
-	<dt>Price:</dt>
-	<dd class="last">$90</dd>
+	<dt>Flower acids:</dt>
+	<dd class="last">From $95</dd>
+
+	<dt>Peel combined with facial:</dt>
+	<dd class="last">From $50</dd>
 </dl>
 
 <hr />
 
-<h3>Illuminating Face Mask</h3>
+<h2>Microdermabrasion</h2>
 
-<p>This revitalizing and repairing mask feeds the skin and smoothes fine lines and wrinkles. Vitamin C, Squalene oil, and seaweed combine to improve elasticity and counteract the effects of the sun, restoring skin to a more illuminated, youthful appearance.</p>
+<p>A chemical-free exfoliation treatment removing dead skin cells, minor scaring, age spots and fine lines, giving you a smoother, more radiant skin. This treatment can be used on any area of the body. A series of treatments is usually recommended.</p>
 
-<dl>
-	<dt>Duration:</dt>
-	<dd>75 minutes</dd>
+<dl class="blockList">
+	<dt>Single treatment:</dt>
+	<dd>$150</dd>
 
-	<dt>Price:</dt>
-	<dd class="last">$88</dd>
+	<dt>Multiple appointments discounted</dt>
 </dl>
+
+<hr />
+
+<h2>Special masques to include with your cleansing facial</h2>
+
+	<dl class="blockList">
+		<dt>RS2:</dt>
+		<dd>A soothing rosacea to extreme sensitive skin</dd>
+
+		<dt>High Performance Repair:</dt>
+		<dd>For sun-damaged, sagging and rough skin</dd>
+
+		<dt>Optimal O<sup>2</sup>:</dt>
+		<dd>To help reveal healthy, luminous skin by increased cell oxygenation</dd>
+
+		<dt>Luminating Face Masque:</dt>
+		<dd>Helps improve elasticity and counteracts the effects of the sun, restoring skin to its youthful appearance</dd>
+	</dl>
 
 <?php include("footer.php"); ?>

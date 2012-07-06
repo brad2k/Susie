@@ -2,8 +2,7 @@
 $page_type = "biography";
 $page_sub_type = "";
 $page_title = "Susie Byleckie: Biography";
-$meta_description = "Desc";
-$meta_keywords = "Keywords";
+$meta_description = "";
 include("header.php");
 ?>
 
