@@ -72,7 +72,7 @@ include("header.php");
 
 	<dl class="blockList">
 		<dt>RS2:</dt>
-		<dd>A soothing rosacea to extreme sensitive skin</dd>
+		<dd>A soothing facial to help counteract the signs of rosacea and extremely sensitive skin</dd>
 
 		<dt>High Performance Repair:</dt>
 		<dd>For sun-damaged, sagging and rough skin</dd>

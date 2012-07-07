@@ -22,10 +22,7 @@ include("header.php");
 			<dt>E-mail:</dt>
 			<dd><a href="mailto:raysusieb@softcom.net?subject=Web%20Inquiry" itemprop="email">raysusieb@softcom.net</a></dd>
 
-			<dt>Reception:</dt>
-			<dd itemprop="telephone">(916) 455-7887</dd>
-
-			<dt>Cell:</dt>
+			<dt>Phone:</dt>
 			<dd itemprop="telephone">(916) 212-8441</dd>
 		</dl>
 	</div>
