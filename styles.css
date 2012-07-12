@@ -68,7 +68,7 @@ div.clear{clear:both;font-size:1px;line-height:1px;height:0px;visibility:hidden;
 #main dd a {font-weight:normal;}
 /* home */
 .home #main {padding:0;text-align: center;}
-.home #main div {display:inline;}
+.home #main .infoWrap {margin-bottom:10px;}
 .home #main .portrait {display:block;margin:14px auto 10px;border:1px solid #DDD;}
 .home small {padding-left:5px;}
 /* product */
