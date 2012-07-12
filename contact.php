@@ -1,7 +1,7 @@
 <?php
 $page_type = "contact";
-$page_title = "Contact Susie Byleckie";
-$meta_description = "";
+$page_title = "Contact &ndash; Skin Care by Susie Byleckie";
+$meta_description = "Contact Susie Byleckie of Skin Care by Susie Byleckie.";
 include("header.php");
 ?>
 
@@ -19,9 +19,6 @@ include("header.php");
 		</div>
 
 		<dl>
-			<dt>E-mail:</dt>
-			<dd><a href="mailto:raysusieb@softcom.net?subject=Web%20Inquiry" itemprop="email">raysusieb@softcom.net</a></dd>
-
 			<dt>Phone:</dt>
 			<dd itemprop="telephone">(916) 212-8441</dd>
 		</dl>

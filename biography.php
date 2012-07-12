@@ -1,8 +1,8 @@
 <?php
 $page_type = "biography";
 $page_sub_type = "";
-$page_title = "Susie Byleckie: Biography";
-$meta_description = "";
+$page_title = "Biography &ndash; Skin Care by Susie Byleckie";
+$meta_description = "Susie Byleckie: an experienced esthetician in Sacramento providing personalized skin care solutions.";
 include("header.php");
 ?>
 

@@ -1,8 +1,8 @@
 <?php
 $page_type = "product";
 $page_sub_type = "sugaring";
-$page_title = "Sugaring by Susie Byleckie";
-$meta_description = "";
+$page_title = "Sugaring &ndash; Skin Care by Susie Byleckie";
+$meta_description = "Sugaring: a less traumatic hair removal alternative to traditional wax.";
 include("header.php");
 ?>
 

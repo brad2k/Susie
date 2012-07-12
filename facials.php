@@ -1,8 +1,8 @@
 <?php
 $page_type = "product";
 $page_sub_type = "facials";
-$page_title = "Facials by Susie Byleckie";
-$meta_description = "";
+$page_title = "Facials, peels and microdermabrasion &ndash; Skin Care by Susie Byleckie";
+$meta_description = "Personalized facials, peels and microdermabrasion to address a variety of skin conditions.";
 include("header.php");
 ?>
 

@@ -1,5 +1,7 @@
 		</div>
-		<p class="copyright" itemscope itemtype="http://schema.org/WPFooter">&copy; <?php echo date('Y'); ?> Susie Byleckie</p>
+		<footer>
+			<p class="copyright" itemscope itemtype="http://schema.org/WPFooter">&copy; <?php echo date('Y'); ?> Susie Byleckie</p>
+		</footer>
 	</div>
 	<script type="text/javascript">
 		var _gaq = _gaq || [];
